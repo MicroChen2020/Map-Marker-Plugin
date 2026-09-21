@@ -57,7 +57,7 @@
 
 ## 安装（Chrome 或 Edge）
 
-1. 解压 `amap-notes-v0.1.3.zip`，保留解压后的文件夹，不要安装后移动或删除它。
+1. 下载本项目。
 2. Chrome 在地址栏输入 `chrome://extensions`；Edge 输入 `edge://extensions`。
 3. 打开“开发者模式”，点击“加载已解压的扩展程序”。
 4. 选择本项目中的 **extension 文件夹**，这一层应能直接看到 `manifest.json`。
